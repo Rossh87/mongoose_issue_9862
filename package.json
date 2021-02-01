@@ -1,0 +1,11 @@
+{
+  "name": "mongoose_issue_9857",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Rossh87 <hunter.dev.87@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "https://github.com/Automattic/mongoose.git#master",
+    "typescript": "^4.1.3"
+  }
+}
