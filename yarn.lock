@@ -97,7 +97,7 @@ mongoose-legacy-pluralize@1.0.2:
 
 "mongoose@https://github.com/Automattic/mongoose.git#master":
   version "5.11.14"
-  resolved "https://github.com/Automattic/mongoose.git#452f5521ef3ac53d674a16b48abcd214b307681c"
+  resolved "https://github.com/Automattic/mongoose.git#5c7d047227ed7b1f194b9e57cb2c4c48fb190343"
   dependencies:
     "@types/mongodb" "^3.5.27"
     bson "^1.1.4"
